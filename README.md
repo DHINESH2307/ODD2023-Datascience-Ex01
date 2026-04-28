@@ -19,6 +19,8 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+# Colab link
+https://colab.research.google.com/drive/1PgBKk1YFM5eZ0lM6jQeeCzgMXrwRsAEc
 <img width="929" height="869" alt="Screenshot 2026-04-28 141535" src="https://github.com/user-attachments/assets/3c4902dc-e25e-47cd-84c7-0b30e82c9bd9" />
 <img width="939" height="280" alt="Screenshot 2026-04-28 141543" src="https://github.com/user-attachments/assets/dfc9a6bc-6512-4a8e-b88c-34621e092297" />
 <img width="920" height="261" alt="Screenshot 2026-04-28 141549" src="https://github.com/user-attachments/assets/9d8100be-ee2f-4d00-9780-da36b43a19a0" />
